@@ -62,6 +62,9 @@ posição dos mais rentosos.
 E em primeiro lugar,dos produtos que deram mais lucro, temos o Combinado, faturando R$ 251.520,00 (o prato com maior faturamento) sendo o 15º mais vendido com 1572 itens.
 
 
+<p>Para conferir o <b>Dashboard</b> 📊 no <i><b>Power BI</b></i> ➞ <a href="https://app.powerbi.com/groups/me/reports/dcc4e6e1-898f-421d-
+91f8-d7948bb3b612/ReportSection?experience=power-bi">Clique aqui!</a></p>
+
 
 ## 🛠 Tecnologias
  
