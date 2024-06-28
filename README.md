@@ -55,7 +55,7 @@ posição dos mais rentosos.
 <h3 align="center">Destaque para os produtos que Deram Mais Lucro</h3>
 
 <p align="center">
-  <img alt="Produtos Mais Vendidos" title="Produtos Mais Vendidos" src="./README/Dash3.jpg" />
+  <img alt="Produtos Mais Lucrativos" title="Produtos Mais Lucrativos" src="./README/Dash3.jpg" />
 </p>
 
 
